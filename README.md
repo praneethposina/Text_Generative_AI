@@ -52,7 +52,9 @@ The model is trained with the following hyperparameters:
 ## Sample Output
 
 The model can generate creative fiction stories. Here's a sample output:
+
 ![sample Output Text](Sample.png)
+
 The sample of generated text shows good coherence and cohesiveness. The sentences are related to each other and make sense when read together. However, some sentences contain nonsensical phrases, which may be a result of the model being trained on small dataset or restricted compute power. Also suggesting that it may have difficulty with long-term dependency modelling.
 
 ## Loss Curve
